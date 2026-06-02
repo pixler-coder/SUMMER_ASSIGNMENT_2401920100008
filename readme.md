@@ -12,10 +12,15 @@ This repository contains my DSA assignments and practice solutions.
 - Stack
 - Queue
 
-## File structure 
-   Assignment
-   |__weeks \ // week
-        |__Days \// which day work
+## File Structure
+
+```text
+Assignment
+│
+└── weekN        // week number
+    │
+    └── DayN     // day's work
+```
 
 ## Technologies Used
 
