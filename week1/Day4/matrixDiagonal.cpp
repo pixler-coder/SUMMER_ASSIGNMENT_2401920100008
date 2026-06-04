@@ -3,7 +3,6 @@ public:
     int diagonalSum(vector<vector<int>>& mat) {
         int n = mat.size();
         int sum = 0;
-
         for (int i = 0; i < n; ++i) {
             // Add element from primary diagonal
             sum += mat[i][i];
