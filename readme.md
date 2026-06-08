@@ -11,7 +11,7 @@ This repository contains my DSA assignments and practice solutions.
 - Linked List
 - Stack
 - Queue
-
+- Tree
 ## File Structure
 
 ```text
