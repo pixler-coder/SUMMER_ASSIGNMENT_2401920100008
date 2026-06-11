@@ -13,7 +13,7 @@ public:
             int repeat = n / k;
 
             for(int i = 0; i < repeat; i++) {
-                temp += sub;
+                temp += sub;j
             }
 
             if(temp == s) return true;
